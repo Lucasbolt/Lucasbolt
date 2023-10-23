@@ -2,7 +2,7 @@
 
 # Hello, I'm Chisom (mostly known as as Lucas) 👋
 
-![Banner Image](link-to-your-banner-image)
+![Banner Image](https://github.com/Lucasbolt/images/blob/main/gitSerene.png?raw=true)
 
 I'm a passionate Backend Engineer with a strong interest in blockchain technology, distributed systems, and scalable architecture. More importantly, I hope that someday, people's lives will be positively impacted by my work. 
 
