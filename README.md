@@ -1,6 +1,6 @@
 # "Our greatest glory is not in never falling, but in rising every time we fall." - Confucius
 
-# Hello, I'm Chisom (mostly known as as Lucas) 👋
+# Hello, I'm Chisom (mostly known as Lucas) 👋
 
 ![Banner Image](https://github.com/Lucasbolt/images/blob/main/gitSerene.png?raw=true)
 
