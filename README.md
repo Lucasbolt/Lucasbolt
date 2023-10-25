@@ -1,10 +1,11 @@
 # "Our greatest glory is not in never falling, but in rising every time we fall." - Confucius
 
-<h1> Hello, I'm Chisom (mostly known as Lucas) 👋 </h1>
+<h1> Hello, I'm Lucas 👋 </h1>
 
 ![Banner Image](https://github.com/Lucasbolt/images/blob/main/cyber.jpeg?raw=true)
 
-I'm a passionate Backend Engineer with a strong interest in blockchain technology, distributed systems, and scalable architecture. More importantly, I hope that someday, people's lives will be positively impacted by my work. 
+I'm a passionate Backend Engineer with a strong interest in blockchain technology, distributed systems, and scalable architecture. My ultimate aspiration is to bring about a positive transformation in people's lives through my endeavors.
+
 
 ## About Me
 
