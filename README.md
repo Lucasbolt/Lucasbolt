@@ -2,7 +2,7 @@
 
 ## Hello, I'm Lucas 👋
 
-![Banner Image](https://github.com/Lucasbolt/images/blob/main/cyber.jpeg?raw=true)
+![Banner Image](https://github.com/Lucasbolt/images/blob/main/reduced_cyber.jpeg?raw=true)
 
 I'm a passionate Backend Engineer with a strong interest in blockchain technology, distributed systems, and scalable architecture. My ultimate aspiration is to bring about a positive transformation in people's lives through my endeavors.
 
