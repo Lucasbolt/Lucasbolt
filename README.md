@@ -20,7 +20,6 @@ I'm a passionate Backend Engineer with a strong interest in blockchain technolog
 - **Languages:** Python, Javascript, Typescript, C, Bash scripting.
 - **Frameworks:** Django, Flask, Express, Fast API.
 - **Databases:** MySQL, MongoDB, Redis, Postgre, Firebase Storage.
-- **Tools:** Git, Docker, GitLab, Fabric, Jenkins.
 
 ### Get in Touch
 
