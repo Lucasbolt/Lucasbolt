@@ -1,6 +1,6 @@
 # "Our greatest glory is not in never falling, but in rising every time we fall." - Confucius
 
-## Hello, I'm Lucas 👋
+## Hello, I'm Chisom 👋
 
 ![Banner Image](https://github.com/Lucasbolt/images/blob/main/reduced_cyber.jpeg?raw=true)
 
