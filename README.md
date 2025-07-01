@@ -8,7 +8,7 @@ I'm a passionate Backend Engineer with a strong interest in blockchain technolog
 
 ### About Me
 
-- 💻 Currently working on a social media platform for engaging in academic subjects (plus a few incognito projects 😉).
+- 💻 Currently building a platform that helps event organizers gain visibility and makes it easy for users to discover exciting events around them — think social media, but just for events (with a few stealth projects on the side 😉).
 - 🌱 I’m constantly learning and exploring new technologies.
 - 🚀 I enjoy solving complex problems and optimizing systems for performance and scalability.
 - 📚 I'm an avid reader with interests spanning System Architecture, Cybersecurity, Entrepreneurship, and Metaphysics. I believe that we are not alone in the universe. 😄
