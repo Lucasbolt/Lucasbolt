@@ -19,14 +19,14 @@ I'm a passionate Backend Engineer with a strong interest in blockchain technolog
 
 - **Languages:** Python, Javascript, Typescript, C, Bash scripting.
 - **Frameworks:** Django, Flask, Express, Fast API.
-- **Databases:** MySQL, MongoDB, Redis, Postgre, Firebase Storage.
+- **Databases:** MySQL, MongoDB, Redis, Postgres, Firebase Storage.
 
 ### Get in Touch
 
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/lucas-mmaduabuchi-dev/)
 - Email: [Send me an email](lucasbolt700@gmail.com)
 - GitHub: [Check out my projects](https://github.com/Lucasbolt/)
-- Twitter: [Follow me on Twitter](https://twitter.com/LMmaduabuchi)
+- Twitter: [Follow me on Twitter](https://twitter.com/BankendGuy)
 
 ### Let's Connect
 
